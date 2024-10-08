@@ -44,7 +44,7 @@ export default function App() {
         🥳 App successfully hosted. Try creating a new todo.0000000000
         <br />
         <a href="https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/">
-          Review next steps of this tutorial.
+          Review next steps of this tutorial.1111
         </a>
       </div>
     </main>
